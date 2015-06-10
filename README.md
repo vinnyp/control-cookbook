@@ -23,6 +23,7 @@ Best practices for designing and building a control library.
 - [Web Accessibility Best Practices](https://www.webaccessibility.com/best_practices.php)
 - [HTML5: Techniques for providing useful text alternatives](http://w3c.github.io/alt-techniques/)
 - [Accessibility Culture Best Practices Blog](http://accessibleculture.org/tag/best-practices/)
+- [Accessibility of Rich Internet Applications](http://webaim.org/techniques/aria/)
 
 ### Examples ###
 - [WAI-ARIA: Information & examples](http://wai-aria.punkchip.com/)
