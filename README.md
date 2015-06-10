@@ -8,7 +8,8 @@ Best practices for designing and building a control library.
 ### Quick reference ###
 - [ARIA Roles](http://www.w3.org/TR/wai-aria/roles)
 - [Allowed ARIA roles, states and properties](http://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties-1)
-- [ARIA in HTML](http://www.w3.org/TR/html-aria/)
+- [ARIA in HTML, W3C](http://www.w3.org/TR/html-aria/)
+- [ARIA in HTML, Web Platform](https://specs.webplatform.org/html-aria/webspecs/master/)
 
 ### Best Practices ###
 - [WAI-ARIA 1.0 Authoring Practices](http://www.w3.org/WAI/PF/aria-practices/)
