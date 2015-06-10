@@ -3,19 +3,12 @@ Best practices for designing and building a control library.
 
 
 
-## Accessibility ##
+# Accessibility #
 
 ### Quick reference ###
 - [ARIA Roles](http://www.w3.org/TR/wai-aria/roles)
 - [Allowed ARIA roles, states and properties](http://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties-1)
 - [ARIA in HTML](http://www.w3.org/TR/html-aria/)
-
-### Keyboard Navigation ###
-- [Keyboard and Structural Navigation](http://www.w3.org/WAI/PF/aria-practices/#keyboard)
-
-### Guides ###
-- [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-- [WAI-ARIA (W3C Spec)](http://www.w3.org/TR/wai-aria/)
 
 ### Best Practices ###
 - [WAI-ARIA 1.0 Authoring Practices](http://www.w3.org/WAI/PF/aria-practices/)
@@ -26,3 +19,13 @@ Best practices for designing and building a control library.
 
 ### Examples ###
 - [WAI-ARIA: Information & examples](http://wai-aria.punkchip.com/)
+
+### Landmarks ###
+- [Using WAI-ARIA Landmarks – 2013](http://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/)
+
+### Keyboard Navigation ###
+- [Keyboard and Structural Navigation](http://www.w3.org/WAI/PF/aria-practices/#keyboard)
+
+### Guides ###
+- [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- [WAI-ARIA (W3C Spec)](http://www.w3.org/TR/wai-aria/)
