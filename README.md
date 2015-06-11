@@ -20,6 +20,8 @@ Best practices for designing and building a control library.
 - [HTML5: Techniques for providing useful text alternatives](http://w3c.github.io/alt-techniques/)
 - [Accessibility Culture Best Practices Blog](http://accessibleculture.org/tag/best-practices/)
 - [How Not To Misuse ARIA States, Properties and Roles](http://www.ssbbartgroup.com/blog/how-not-to-misuse-aria-states-properties-and-roles/)
+- [Accessibility of Rich Internet Applications](http://webaim.org/techniques/aria/)
+
 
 ### Guides ###
 - [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
@@ -40,4 +42,3 @@ Best practices for designing and building a control library.
 
 ### Keyboard Navigation ###
 - [Keyboard and Structural Navigation](http://www.w3.org/WAI/PF/aria-practices/#keyboard)
-
